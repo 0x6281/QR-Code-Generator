@@ -3,8 +3,8 @@
 This is a simple QR code generator tool that allows you to generate QR codes from text input. It automatically updates the QR code image file in your project folder, overwriting the existing file with the same name.
 
 ## Requirements
-Python 3.x
-qrcode library
+- Python 3.x
+- qrcode library
 
 ## Features
 
